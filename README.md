@@ -35,19 +35,19 @@ I'm **Ananya Tripathi**, a Computer Science and Engineering student at **Dr. Amb
 <div align="center">
 
 <a href="https://github.com/ananya220705">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ananya220705&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ananya's GitHub statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ananya220705&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&commits_year=2026" alt="Ananya's GitHub statistics"/>
 </a>
 <a href="https://github.com/ananya220705">
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya220705&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Languages in public repositories"/>
 </a>
 
 <a href="https://github.com/ananya220705">
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya220705&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
 </a>
 
 </div>
 
-<sub> Language statistics reflect public repository code, not proficiency.</sub>
+<sub>Note: GitHub’s contribution calendar counts contributions such as commits, pull requests, and issues. The stats card reports its own commit-based metrics, so its number may differ from the calendar total. The stats card is set to show commits for 2026 and may be cached by the external service. Language statistics reflect public repository code, not proficiency.</sub>
 
 ## 🚀 Featured Repositories
 
