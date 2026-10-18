@@ -41,7 +41,7 @@ I'm **Ananya Tripathi**, a Computer Science and Engineering student at **Dr. Amb
 </a>
 
 <a href="https://github.com/ananya220705">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya220705&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+  
 </a>
 
 </div>
