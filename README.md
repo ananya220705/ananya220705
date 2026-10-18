@@ -146,7 +146,8 @@ I'm happy to connect with fellow learners, developers, and professionals who enj
 <a href="https://www.linkedin.com/in/ananya-tripathi-368708330/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="https://github.com/ananya220705"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/></a>
 
-**Email:** `tripathiananya0722@gmail.com`
+**Email:** `tripathiananya0722@gmail.com`  
+**LinkedIn:** [Ananya Tripathi](https://www.linkedin.com/in/ananya-tripathi-368708330/)
 
 ---
 
