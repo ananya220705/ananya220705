@@ -42,12 +42,13 @@ I'm **Ananya Tripathi**, a Computer Science and Engineering student at **Dr. Amb
 </a>
 
 <a href="https://github.com/ananya220705">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya220705&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+
 </a>
+
 
 </div>
 
-<sub>Note: GitHub’s contribution calendar counts contributions such as commits, pull requests, and issues. The stats card reports its own commit-based metrics, so its number may differ from the calendar total. The stats card is set to show commits for 2026 and may be cached by the external service. Language statistics reflect public repository code, not proficiency.</sub>
+<sub> Language statistics reflect public repository code, not proficiency.</sub>
 
 ## 🚀 Featured Repositories
 
