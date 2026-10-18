@@ -1,19 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:312E81,100:0891B2&height=210&section=header&text=Ananya%20Tripathi&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=CSE%20Student%20%7C%20Python%20%7C%20Data%20Science%20%7C%20AI%2FML&descAlignY=55&descSize=17" width="100%" alt="Ananya Tripathi profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=190&section=header&text=Ananya%20Tripathi&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Python%20%7C%20Data%20Science%20%7C%20AI%2FML&descAlignY=58&descSize=18" width="100%" alt="Ananya Tripathi profile banner"/>
 
-### 👩‍💻 Computer Science & Engineering Student
-**Dr. Ambedkar Institute of Technology for Handicapped** · Kanpur, India  
-🐍 Python Developer · 📊 Data Science Learner · 🤖 Aspiring AI/ML Professional  
-💼 Python Development Intern, Codveda Technologies · **June–July 2026**
+<a href="https://www.linkedin.com/in/ananya-tripathi-368708330/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:tripathiananya0722@gmail.com?subject=Hello%20Ananya"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ananya220705"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<p>
-  <a href="https://www.linkedin.com/in/ananya-tripathi-368708330/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-  <a href="https://github.com/ananya220705"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/></a>
-  <a href="mailto:tripathiananya0722@gmail.com?subject=Hello%20Ananya"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ananya"/></a>
-</p>
-
-[About Me](#-about-me) · [GitHub Dashboard](#-github-dashboard) · [Projects](#-featured-projects) · [Skills](#-skills--technologies) · [Contact](#-lets-connect)
+### Computer Science Engineering Student · Python Developer · Aspiring Data Science & AI Professional
 
 *Learn consistently. Build practically. Grow one project at a time.* ✨
 
@@ -21,79 +14,63 @@
 
 ---
 
-## 👋 About Me
+## 👋 Hi there!
 
-Hi! I'm **Ananya Tripathi**, a Computer Science and Engineering student interested in **Python development, Data Science, Machine Learning, and Generative AI**. I enjoy learning by building projects and exploring how data-driven approaches can help solve practical problems.
+I'm **Ananya Tripathi**, a Computer Science and Engineering student at **Dr. Ambedkar Institute of Technology for Handicapped**. I'm interested in Python development, Data Science, Machine Learning, and Generative AI.
 
-- 🎓 **Education:** Computer Science & Engineering, Dr. Ambedkar Institute of Technology for Handicapped
-- 💼 **Experience:** Python Development Intern at Codveda Technologies — June 2026 to July 2026
-- 🌱 **Learning:** Python, statistics, data analysis, Machine Learning, Deep Learning, NLP, and Generative AI
-- 🔭 **Building:** Projects around customer segmentation, visibility prediction, and spam detection
-- 🤝 **Interested in:** Collaborations, practical projects, and opportunities in Python, Data Science, and AI/ML
+- 💼 **Experience:** Python Development Intern at Codveda Technologies (June 2026 – July 2026)
+- 🌱 **Currently learning:** Python, statistics, data analysis, Machine Learning, Deep Learning, NLP, and Generative AI
+- 🔭 **Building:** Practical projects that turn data into useful insights and predictions
+- 🤝 **Open to:** Learning opportunities, project collaborations, and internships in Python, Data Science, and AI/ML
+- 💬 **Ask me about:** Python fundamentals, beginner machine learning projects, and my repositories
 
 ## 📊 GitHub Dashboard
 
 <div align="center">
 
-<a href="https://github.com/ananya220705">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ananya220705&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ananya's GitHub statistics"/>
-</a>
-<a href="https://github.com/ananya220705">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya220705&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Languages in public repositories"/>
-</a>
-
-<a href="https://github.com/ananya220705">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya220705&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
-</a>
+<a href="https://github.com/ananya220705"><img height="175" src="https://github-readme-stats.vercel.app/api?username=ananya220705&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ananya's GitHub statistics"/></a>
+<a href="https://github.com/ananya220705"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya220705&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Languages in public repositories"/></a>
 
 </div>
 
-<sub>Dashboard cards are rendered by external services and may be cached or temporarily unavailable. Language statistics reflect public repository code, not proficiency.</sub>
+<sub>The GitHub statistics and language graphs are generated by external services and may occasionally be unavailable or cached. Language percentages reflect code in public repositories, not a measure of my proficiency.</sub>
 
-## 🚀 Featured Projects
+## 🚀 Featured Repositories
 
 <div align="center">
 
-<a href="https://github.com/ananya220705/Customer-Categorizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananya220705&repo=Customer-Categorizer&theme=tokyonight&hide_border=true" alt="Customer Categorizer repository card"/>
-</a>
-<a href="https://github.com/ananya220705/Climate-Visibility">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananya220705&repo=Climate-Visibility&theme=tokyonight&hide_border=true" alt="Climate Visibility repository card"/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=ananya220705&repo=Spam-Detection-&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananya220705&repo=Spam-Detection-&theme=tokyonight&hide_border=true" alt="Spam Detection repository card"/>
-</a>
+<a href="https://github.com/ananya220705/Customer-Categorizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ananya220705&repo=Customer-Categorizer&theme=tokyonight&hide_border=true" alt="Customer Categorizer repository card"/></a>
+<a href="https://github.com/ananya220705/Climate-Visibility"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ananya220705&repo=Climate-Visibility&theme=tokyonight&hide_border=true" alt="Climate Visibility repository card"/></a>
+<a href="https://github.com/ananya220705/Spam-Detection-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ananya220705&repo=Spam-Detection-&theme=tokyonight&hide_border=true" alt="Spam Detection repository card"/></a>
 
 </div>
 
 ### 🧩 [Customer Personality Segmentation](https://github.com/ananya220705/Customer-Categorizer)
 
-Machine learning project exploring customer data to identify meaningful customer groups and support data-driven decisions.
+Use machine learning techniques to identify meaningful customer groups and support data-driven decisions.
 
-**Focus:** Customer segmentation, clustering, classification, preprocessing, and model evaluation.
-
-➡️ [Explore Customer-Categorizer](https://github.com/ananya220705/Customer-Categorizer)
+- **Focus:** Customer segmentation, clustering, classification, preprocessing, and model evaluation
+- **Repository:** [Customer-Categorizer ↗](https://github.com/ananya220705/Customer-Categorizer)
 
 ### 🌦️ [Visibility Distance Prediction](https://github.com/ananya220705/Climate-Visibility)
 
-Predictive modelling project focused on estimating visibility distance using weather and geographical parameters.
+Explore prediction of visibility distance using weather and geographical variables such as humidity, temperature, wind speed, pressure, elevation, and terrain.
 
-**Example features:** Humidity, temperature, wind speed, pressure, elevation, and terrain.
+- **Focus:** Data exploration, feature analysis, predictive modelling, and evaluation
+- **Repository:** [Climate-Visibility ↗](https://github.com/ananya220705/Climate-Visibility)
 
-➡️ [Explore Climate-Visibility](https://github.com/ananya220705/Climate-Visibility)
+### 📩 [Spam-Detection](https://github.com/ananya220705/Spam-Detection-)
 
-### 📩 [Spam Detection](https://github.com/ananya220705/Spam-Detection-)
+A project exploring spam detection and text classification.
 
-A project focused on spam detection and text classification.
-
-➡️ [Explore Spam-Detection](https://github.com/ananya220705/Spam-Detection-)
+- **Repository:** [Spam-Detection ↗](https://github.com/ananya220705/Spam-Detection-)
 
 ### 🔢 MNIST Handwritten Digit Classification
 
 A computer vision mini-project for classifying handwritten digits from 0 to 9 using a neural network.
 
-**Technologies:** Python, TensorFlow, and Keras.  
-*Add a repository link here when it is available.*
+- **Technologies:** Python, TensorFlow, and Keras
+- **Repository:** Add the repository link when available
 
 ## 🛠️ Skills & Technologies
 
@@ -114,9 +91,9 @@ A computer vision mini-project for classifying handwritten digits from 0 to 9 us
 
 </div>
 
-**Currently learning:** Statistics · SQL and databases · Data Visualization · Power BI · Deep Learning · NLP · Generative AI
+**Currently developing my knowledge of:** Statistics · SQL and databases · Data Visualization · Power BI · Deep Learning · NLP · Generative AI
 
-<sub>My experience varies by technology, and I'm continuing to develop my skills through coursework and hands-on projects.</sub>
+*Technology badges represent tools associated with my learning and projects; my experience varies by technology.*
 
 ## 💼 Experience
 
@@ -130,33 +107,23 @@ A computer vision mini-project for classifying handwritten digits from 0 to 9 us
 
 ## 🎯 Current Goals
 
-- Strengthen my foundations in Python, statistics, and data handling.
-- Build end-to-end machine learning projects.
+- Build a strong foundation in Python, statistics, and data handling.
+- Develop end-to-end machine learning projects.
 - Improve model evaluation and deployment skills.
 - Write clear documentation and reproducible code.
 - Collaborate on meaningful projects in Python, Data Science, and AI/ML.
-
----
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-### Have a project idea or want to collaborate?
+*Thanks for visiting my profile! ⭐ If you find a project interesting, feel free to explore it or connect with me.*
 
-I'm always glad to connect with fellow learners, developers, and professionals interested in building useful technology.
-
-<a href="https://www.linkedin.com/in/ananya-tripathi-368708330/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/ananya220705"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-**Email:** [tripathiananya0722@gmail.com](mailto:tripathiananya0722@gmail.com?subject=Hello%20Ananya)
-
-[⬆ Back to top](#ananya-tripathi)
+<a href="https://www.linkedin.com/in/ananya-tripathi-368708330/"><img src="https://img.shields.io/badge/LinkedIn-Ananya%20Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:tripathiananya0722@gmail.com?subject=Hello%20Ananya"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ananya"/></a>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:312E81,100:0891B2&height=100&section=footer" width="100%" alt="Decorative footer"/>
-
-*Thanks for visiting my profile — keep learning, keep building, and keep growing.* 💙
+*Learning consistently. Building practically. Growing one project at a time.* 💙
 
 </div>
