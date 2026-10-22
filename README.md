@@ -89,7 +89,6 @@ A project exploring spam detection and text classification.
 A computer vision mini-project for classifying handwritten digits from 0 to 9 using a neural network.
 
 - **Technologies:** Python, TensorFlow, and Keras
-- **Repository:** Add the repository link when available
 
 ## 🛠️ Skills & Technologies
 
